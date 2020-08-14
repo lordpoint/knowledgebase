@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Sample Page!"
+---
+
 # This is the page title
 
 This is some text
